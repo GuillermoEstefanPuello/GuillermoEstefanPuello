@@ -1,6 +1,6 @@
 ﻿# Guillermo Estefan Puello
 
-**Ingeniero Full-Stack | Arquitecto de Producto | Líder Técnico | Data Analysis & BI Sr.**
+**Ingeniero Full-Stack | Arquitecto de Producto | Líder Técnico | Senior Data & BI Analyst.**
 
 Diseño arquitectura de software, construyo productos digitales end-to-end y dirijo su ejecución técnica con metodología propia: **DEVGEP+**.
 
@@ -40,7 +40,7 @@ Próximamente estaré publicando showcases técnicos controlados de:
 
 ## Filosofía de trabajo
 
-Trabajo con una metodología estructurada llamada **DEVGEP+**, enfocada en:
+Trabajo con metodologías agiles, y estructurada llamada **DEVGEP+**, enfocada en:
 
 - desarrollo por hitos
 - control de ramas
