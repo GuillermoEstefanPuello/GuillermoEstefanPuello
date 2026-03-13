@@ -1,0 +1,28 @@
+﻿# OS / Editor
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
