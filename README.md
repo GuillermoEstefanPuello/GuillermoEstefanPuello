@@ -1,6 +1,6 @@
 ﻿# Guillermo Estefan Puello
 
-**Ingeniero Full-Stack | Arquitecto de Producto | Líder Técnico | Senior Data & BI Analyst.**
+**Developer Full-Stack | Arquitecto de Producto | Líder Técnico | Senior Data & BI Analyst.**
 
 Diseño arquitectura de software, construyo productos digitales end-to-end y dirijo su ejecución técnica.
 
