@@ -15,12 +15,14 @@ Diseño arquitectura de software, construyo productos digitales end-to-end y dir
 
 ## Enfoque profesional
 
-- Arquitectura de software
 - Diseño y Desarrollo de productos digitales
+- Arquitectura de software
 - Full-Stack Engineering
-- Data Analysis & Business Intelligence
-- SQL, Python y automatización
+- Data Analysis & Business Intelligence Sr.
+- SQL, Python, DAX, javascript, typescript y automatización
 - Dirección técnica de proyectos
+- Scrum Master
+- PM
 - Metodología agiles y tambien propia: DEVGEP+
 
 ---
