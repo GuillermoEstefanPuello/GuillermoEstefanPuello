@@ -63,6 +63,6 @@ Trabajo con metodologías agiles, y estructuradas, tambien con una propia llamad
 ## Contacto
 
 - Email: guillermo.e.puello@gmail.com
-- Sitio: https://ticketstime.net/
+- Sitio: https://www.corp-starbound.com/
 - LinkedIn: en/guillermo-e-puello-77450a174
 - WhatsApp: +1 (829) 485-6391
