@@ -1,55 +1,63 @@
-﻿# Guillermo Estefan Puello
+# Guillermo Estefan Puello
 
-**Developer Full-Stack | Arquitecto de Producto | Líder Técnico | Senior Data & BI Analyst.**
+**Full-Stack Developer · Product Architect · Tech Lead · Senior Data & BI Analyst**
 
-Diseño arquitectura de software, construyo productos digitales end-to-end y dirijo su ejecución técnica.
-
-**Data, BI, SQL, Python, Javascript, Typescript, Power BI, APIs, producto e infraestructura.**
+Diseño arquitectura de software, construyo productos digitales de punta a punta y dirijo su ejecución técnica. Fundador de [StarBound](https://www.corp-starbound.com/), software house en Santo Domingo, República Dominicana.
 
 ---
 
-## Sobre mí
+## En números
 
-Diseño arquitectura de software, construyo productos digitales end-to-end y dirijo su ejecución técnica con metodologías agiles, también cree mi propia metodología de desarrollo: DEVGEP+.
----
+| 934 | 86 | 33 | 500 h |
+| :---: | :---: | :---: | :---: |
+| contribuciones en los últimos 12 meses | sesiones de desarrollo | módulos en producción | invertidas en Shepherd Platform |
 
-## Enfoque profesional
-
-- Diseño y Desarrollo de productos digitales
-- Arquitectura de software
-- Full-Stack Engineering
-- Data Analysis & Business Intelligence Sr.
-- SQL, Python, DAX, javascript, typescript y automatización
-- Dirección técnica de proyectos
-- Scrum Master
-- PM
-- Metodología agiles y tambien propia: DEVGEP+
+Contribuciones según el gráfico de este perfil, con corte al 9 de octubre de 2026. Sesiones, módulos y horas corresponden a [Shepherd Platform](https://www.shepherdplatform.church).
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
-Próximamente estaré publicando showcases técnicos controlados de:
+**[Shepherd Platform](https://www.shepherdplatform.church)** (en producción)
+SaaS multi-tenant de gestión pastoral e inteligencia de negocio para iglesias. Next.js, NestJS, PostgreSQL, Prisma, Redis y BullMQ.
 
-TicketsTime
-Plataforma de gestión de eventos y venta de tickets con arquitectura backend escalable.
+**[Necesitamos un Consulado](https://necesitamosunconsulado.org)** (en línea)
+Iniciativa cívica dominicana, capítulo Ohio. Censo comunitario con datos agregados protegidos.
 
-KikiPay
-Sistema de pagos QR y wallet digital orientado a comercios y vendedores independientes.
+**JMBooks** (en desarrollo)
+Plataforma SaaS de inteligencia contable, fiscal y financiera para República Dominicana.
 
-RDES-Plus
-Framework de desarrollo modular orientado a la construcción de productos digitales.
+**SBPE · StarBound Prospect Engine** (en construcción)
+Detección, clasificación y priorización de prospectos comerciales con inteligencia geoespacial y propuestas asistidas por IA.
 
-Proyecto de Scraping
-Sistema automatizado de extracción de datos web para análisis de mercado.
+**PatriaPulse** (en desarrollo)
+Plataforma cívica de participación ciudadana y consenso público. Neutral, sin fines partidistas y multi-país desde su diseño.
 
-> Nota: Los repositorios públicos mostrarán arquitectura, enfoque técnico y documentación curada, sin exponer componentes sensibles de negocio.
+**[SINTRA-RD](https://github.com/GuillermoEstefanPuello/sintra-rd)** (demo técnico)
+Motor de reglas fiscales configurable para un sistema tributario nacional. C# y .NET 9.
+
+**[BIC Platform](https://github.com/GuillermoEstefanPuello/bic-platform-demo)** (demo)
+Propuesta estratégica y demo web para una plataforma de servicios de interpretación. Next.js y TypeScript.
+
+**KikiPay · TicketsTime · Kairos Suite · RDES+** (en desarrollo y diseño)
+Pagos QR para la economía informal, boletería digital para LATAM, suite de exportación de datos y plataforma de pedidos para colmados.
+
+Los repositorios privados se mantienen así por razones de negocio. El detalle técnico y las demos están en el [portafolio](https://guillermoestefanpuello.github.io).
 
 ---
 
-## Filosofía de trabajo
+## Enfoque
 
-Trabajo con metodologías agiles, y estructuradas, tambien con una propia llamada **DEVGEP+**, enfocada en:
+- Diseño y desarrollo de productos digitales
+- Arquitectura de software y Full-Stack Engineering
+- Data Analysis & Business Intelligence (SQL, Python, DAX, Power BI)
+- Dirección técnica de proyectos, Scrum Master y PM
+
+---
+
+## Forma de trabajo
+
+Trabajo con metodologías ágiles y con una propia, **DEVGEP+**, basada en:
 
 - desarrollo por hitos
 - control de ramas
@@ -62,7 +70,8 @@ Trabajo con metodologías agiles, y estructuradas, tambien con una propia llamad
 
 ## Contacto
 
-- Email: guillermo.e.puello@gmail.com
-- Sitio: https://www.corp-starbound.com/
-- LinkedIn: en/guillermo-e-puello-77450a174
+- Correo: guillermo.e.puello@gmail.com
+- Portafolio: https://guillermoestefanpuello.github.io
+- StarBound: https://www.corp-starbound.com/
+- LinkedIn: https://www.linkedin.com/in/guillermo-estefan-puello-77450a174/
 - WhatsApp: +1 (829) 485-6391
