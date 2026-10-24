@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<defs>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1f2227" stroke-width="1"/></pattern>
+  <radialGradient id="m" cx="45%" cy="50%" r="65%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="mk"><rect width="1200" height="300" fill="url(#m)"/></mask>
+  <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10b981" stop-opacity="0"/><stop offset="1" stop-color="#10b981" stop-opacity=".45"/></linearGradient>
+  <linearGradient id="sc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10b981" stop-opacity="0"/><stop offset=".5" stop-color="#10b981" stop-opacity=".35"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></linearGradient>
+  <clipPath id="cp"><rect x="56" y="100" height="80" width="0"><animate attributeName="width" values="0;31.7;63.3;95.0;126.7;158.3;190.0;221.7;253.3;285.0;316.7;348.3;380.0;411.7;443.3;475.0;506.7;538.3;570.0;601.7;633.3;665.0;696.7;728.3;790;0" keyTimes="0.0000;0.0085;0.0170;0.0256;0.0341;0.0426;0.0511;0.0596;0.0681;0.0767;0.0852;0.0937;0.1022;0.1107;0.1192;0.1278;0.1363;0.1448;0.1533;0.1618;0.1703;0.1789;0.1874;0.1959;0.2044;0.9725" calcMode="discrete" dur="12.72s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="r0"><rect x="84" y="180" height="40" width="0"><animate attributeName="width" values="0;13.2;26.4;39.6;52.8;66.0;79.2;92.4;105.6;118.8;132.0;145.2;158.4;171.6;184.8;198.0;211.2;224.4;237.6;250.8;264.0;277.2;290.4;303.6;316.8;330.0;343.2;356.4;369.6;382.8;396.0;409.2;422.4;435.6;448.8;462.0;475.2;488.4;501.6;514.8;528.0;541.2;554.4;567.6;580.8;594.0;607.2;620.4;633.6;646.8;660.0;673.2;0" keyTimes="0.0000;0.2358;0.2410;0.2461;0.2512;0.2563;0.2614;0.2665;0.2716;0.2767;0.2818;0.2869;0.2921;0.2972;0.3023;0.3074;0.3125;0.3176;0.3227;0.3278;0.3329;0.3381;0.3432;0.3483;0.3534;0.3585;0.3636;0.3687;0.3738;0.3789;0.3840;0.3892;0.3943;0.3994;0.4045;0.4096;0.4147;0.4198;0.4249;0.4300;0.4351;0.4403;0.4454;0.4505;0.4556;0.4607;0.4658;0.4709;0.4760;0.4811;0.4862;0.4914;0.9725" calcMode="discrete" dur="12.72s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="frame"><rect width="1200" height="300" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="300" fill="#0C0D0E"/>
+<rect width="1200" height="300" fill="url(#g)" mask="url(#mk)" opacity=".9"/>
+<rect x="0" y="0" width="1200" height="2" fill="url(#sc)"><animate attributeName="y" values="-2;300" dur="6s" repeatCount="indefinite"/></rect>
+
+<g transform="translate(1010 150)" fill="none" stroke="#10b981" stroke-opacity=".22">
+  <circle r="40"/><circle r="80"/><circle r="120"/>
+  <path d="M-130 0H130M0 -130V130" stroke-opacity=".12"/>
+  <g><path d="M0 0L120 0A120 120 0 0 0 103.9 -60Z" fill="url(#sw)" stroke="none"/>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></g>
+</g>
+<circle cx="991" cy="188" r="3" fill="#34d399"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.6;1" dur="4s" begin="1.3s" repeatCount="indefinite"/></circle><circle cx="989" cy="121" r="3" fill="#34d399"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.6;1" dur="4s" begin="2.6s" repeatCount="indefinite"/></circle><circle cx="952" cy="137" r="3" fill="#34d399"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.6;1" dur="4s" begin="2.14s" repeatCount="indefinite"/></circle><circle cx="1076" cy="175" r="3" fill="#34d399"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.6;1" dur="4s" begin="0.23s" repeatCount="indefinite"/></circle><circle cx="1073" cy="165" r="3" fill="#34d399"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.05;0.6;1" dur="4s" begin="0.15s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="150" r="3" fill="#10b981"/>
+
+<circle cx="66" cy="66" r="4.5" fill="#10b981"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="80" y="71" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#34d399">SYSTEM ONLINE</text>
+<text x="226" y="71" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#6b7280">// GEP · DEVGEP+ V6 ARCHITECT · SANTO DOMINGO, RD</text>
+
+<text x="60" y="158" textLength="760" lengthAdjust="spacingAndGlyphs" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="52" font-weight="700" fill="#ffffff" clip-path="url(#cp)">GUILLERMO ESTEFAN PUELLO</text>
+<g><animate attributeName="opacity" values="1;0" keyTimes="0;0.228" calcMode="discrete" dur="12.72s" repeatCount="indefinite"/>
+<rect y="114" width="22" height="50" fill="#10b981">
+  <animate attributeName="x" values="60;91.7;123.3;155.0;186.7;218.3;250.0;281.7;313.3;345.0;376.7;408.3;440.0;471.7;503.3;535.0;566.7;598.3;630.0;661.7;693.3;725.0;756.7;788.3;820.0;60" keyTimes="0.0000;0.0085;0.0170;0.0256;0.0341;0.0426;0.0511;0.0596;0.0681;0.0767;0.0852;0.0937;0.1022;0.1107;0.1192;0.1278;0.1363;0.1448;0.1533;0.1618;0.1703;0.1789;0.1874;0.1959;0.2044;0.9725" calcMode="discrete" dur="12.72s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+</rect></g>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;0.2358" calcMode="discrete" dur="12.72s" repeatCount="indefinite"/>
+<text x="60" y="207" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="23" font-weight="700" fill="#10b981">&gt;</text>
+<text x="86" y="207" textLength="673.2" lengthAdjust="spacingAndGlyphs" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="23" fill="#e5e5e5" clip-path="url(#r0)">Full Stack Developer Sr. · QA Sr. · BI Analista Sr.</text>
+<rect y="186" width="12" height="26" fill="#10b981">
+  <animate attributeName="x" values="86;99.2;112.4;125.6;138.8;152.0;165.2;178.4;191.6;204.8;218.0;231.2;244.4;257.6;270.8;284.0;297.2;310.4;323.6;336.8;350.0;363.2;376.4;389.6;402.8;416.0;429.2;442.4;455.6;468.8;482.0;495.2;508.4;521.6;534.8;548.0;561.2;574.4;587.6;600.8;614.0;627.2;640.4;653.6;666.8;680.0;693.2;706.4;719.6;732.8;746.0;759.2" keyTimes="0.0000;0.2358;0.2410;0.2461;0.2512;0.2563;0.2614;0.2665;0.2716;0.2767;0.2818;0.2869;0.2921;0.2972;0.3023;0.3074;0.3125;0.3176;0.3227;0.3278;0.3329;0.3381;0.3432;0.3483;0.3534;0.3585;0.3636;0.3687;0.3738;0.3789;0.3840;0.3892;0.3943;0.3994;0.4045;0.4096;0.4147;0.4198;0.4249;0.4300;0.4351;0.4403;0.4454;0.4505;0.4556;0.4607;0.4658;0.4709;0.4760;0.4811;0.4862;0.4914" calcMode="discrete" dur="12.72s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+</rect></g>
+
+<text x="60" y="254" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="2.5" fill="#10b981" opacity="0">NEXT.JS · NESTJS · POSTGRESQL · POWER BI · QA &amp; TESTING · DEVGEP+
+  <animate attributeName="opacity" values="0;0;.85;.85;0;0" keyTimes="0;0.2673;0.3073;0.9607;0.9807;1" dur="12.72s" repeatCount="indefinite"/></text>
+</g>
+</svg>

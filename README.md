@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-sala-de-mando.svg" alt="Guillermo Estefan Puello — Full Stack Developer Sr. · QA Sr. · BI Analista Sr." width="100%">
+</p>
+
 # Guillermo Estefan Puello
 
 **Full-Stack Developer · Product Architect · Tech Lead · Senior Data & BI Analyst**
