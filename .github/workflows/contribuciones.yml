@@ -1,0 +1,33 @@
+name: Actualizar contribuciones
+
+on:
+  schedule:
+    - cron: "23 10 * * *"   # todos los días, 6:23 a. m. hora de RD
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribuciones
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Leer contribuciones y actualizar README.md
+        run: python3 .github/scripts/update_contribs.py
+
+      - name: Commit y push si cambió
+        run: |
+          if git diff --quiet; then
+            echo "Sin cambios que subir."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: contador de contribuciones automatico"
+          git push

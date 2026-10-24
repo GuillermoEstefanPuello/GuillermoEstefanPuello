@@ -4,7 +4,7 @@
 
 # Guillermo Estefan Puello
 
-**Full-Stack Developer · Product Architect · Tech Lead · Senior Data & BI Analyst**
+**Full Stack Developer Sr. · QA Sr. · BI Analista Sr.**
 
 Diseño arquitectura de software, construyo productos digitales de punta a punta y dirijo su ejecución técnica. Fundador de [StarBound](https://www.corp-starbound.com/), software house en Santo Domingo, República Dominicana.
 
@@ -12,11 +12,11 @@ Diseño arquitectura de software, construyo productos digitales de punta a punta
 
 ## En números
 
-| 934 | 86 | 33 | 500 h |
+| <!--contribs-->990<!--/contribs--> | 86 | 33 | 500 h |
 | :---: | :---: | :---: | :---: |
 | contribuciones en los últimos 12 meses | sesiones de desarrollo | módulos en producción | invertidas en Shepherd Platform |
 
-Contribuciones según el gráfico de este perfil, con corte al 9 de octubre de 2026. Sesiones, módulos y horas corresponden a [Shepherd Platform](https://www.shepherdplatform.church).
+Contribuciones según el gráfico de este perfil, actualizadas automáticamente el <!--fecha-->23 de octubre de 2026<!--/fecha-->. Sesiones, módulos y horas corresponden a [Shepherd Platform](https://www.shepherdplatform.church).
 
 ---
 
@@ -34,7 +34,7 @@ Plataforma SaaS de inteligencia contable, fiscal y financiera para República Do
 **SBPE · StarBound Prospect Engine** (en construcción)
 Detección, clasificación y priorización de prospectos comerciales con inteligencia geoespacial y propuestas asistidas por IA.
 
-**PatriaPulse** (en desarrollo)
+**[PatriaPulse](https://patriapulse.vercel.app/)** (demo en línea)
 Plataforma cívica de participación ciudadana y consenso público. Neutral, sin fines partidistas y multi-país desde su diseño.
 
 **[SINTRA-RD](https://github.com/GuillermoEstefanPuello/sintra-rd)** (demo técnico)
