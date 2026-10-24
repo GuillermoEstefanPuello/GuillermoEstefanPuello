@@ -12,7 +12,7 @@ Diseño arquitectura de software, construyo productos digitales de punta a punta
 
 ## En números
 
-| <!--contribs-->990<!--/contribs--> | 86 | 33 | 500 h |
+| <!--contribs-->992<!--/contribs--> | 86 | 33 | 500 h |
 | :---: | :---: | :---: | :---: |
 | contribuciones en los últimos 12 meses | sesiones de desarrollo | módulos en producción | invertidas en Shepherd Platform |
 
