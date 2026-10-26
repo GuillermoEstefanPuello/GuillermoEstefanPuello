@@ -16,7 +16,7 @@ Diseño arquitectura de software, construyo productos digitales de punta a punta
 | :---: | :---: | :---: | :---: |
 | contribuciones en los últimos 12 meses | sesiones de desarrollo | módulos en producción | invertidas en Shepherd Platform |
 
-Contribuciones según el gráfico de este perfil, actualizadas automáticamente el <!--fecha-->25 de octubre de 2026<!--/fecha-->. Sesiones, módulos y horas corresponden a [Shepherd Platform](https://www.shepherdplatform.church).
+Contribuciones según el gráfico de este perfil, actualizadas automáticamente el <!--fecha-->26 de octubre de 2026<!--/fecha-->. Sesiones, módulos y horas corresponden a [Shepherd Platform](https://www.shepherdplatform.church).
 
 ---
 
