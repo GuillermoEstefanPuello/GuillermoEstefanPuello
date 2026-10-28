@@ -4,9 +4,9 @@
 
 # Guillermo Estefan Puello
 
-**Full Stack Developer Sr. · QA Sr. · BI Analista Sr.**
+**Full Stack Developer Sr. QA Sr. BI Analista Sr. Team Leader**
 
-Diseño arquitectura de software, construyo productos digitales de punta a punta y dirijo su ejecución técnica. Fundador de [StarBound](https://www.corp-starbound.com/), software house en Santo Domingo, República Dominicana.
+Diseño arquitectura de software, construyo productos digitales de punta a punta y lidero su ejecución técnica. dirijo una software house en Santo Domingo, República Dominicana.
 
 ---
 
